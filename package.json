@@ -2,7 +2,9 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/foxen-nicholas/foxen-nicholas.github.io/src/index.js",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "react": "^16.4.0",
     "react-dom": "^16.13.1",
     "react-scripts": "1.1.4"
@@ -17,7 +19,6 @@
   },
   "devDependencies": {
     "ajv": "^6.5.4",
-    "gh-pages": "^3.1.0",
     "url-parse": "^1.4.3"
   },
   "description": "For detailed instructions on how the resume template was created go to post below:   [Medium Article](https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e)",
@@ -30,6 +31,5 @@
   },
   "bugs": {
     "url": "https://github.com/foxen-nicholas/foxen-nicholas.github.io/issues"
-  },
-  "homepage": "https://github.com/foxen-nicholas/foxen-nicholas.github.io/src/index.js"
+  }
 }
